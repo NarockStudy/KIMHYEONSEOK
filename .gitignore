@@ -1,0 +1,5 @@
+# Competitive Programming Helper files
+*.cph
+
+# Visual Studio Code settings
+.vscode/
